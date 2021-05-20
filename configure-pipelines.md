@@ -1,5 +1,5 @@
 
-## Configuration of Pipelines
+## Configuration of Pipelines - TEST
 
 To deploy this application, we will create one toolchain with two pipelines - PR pipeline `pr-pipeline` and CD pipeline `cd-pipeline`.
 
